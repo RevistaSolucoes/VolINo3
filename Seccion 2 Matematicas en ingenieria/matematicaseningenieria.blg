@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: matematicaseningenieria.aux
+The style file: plain.bst
+Database file #1: catenaria.bib
+Warning--empty publisher in Java
+Warning--empty year in Java
+You've used 5 entries,
+            2118 wiz_defined-function locations,
+            525 strings with 4429 characters,
+and the built_in function-call counts, 1153 in all, are:
+= -- 99
+> -- 47
+< -- 0
++ -- 19
+- -- 14
+* -- 55
+:= -- 209
+add.period$ -- 14
+call.type$ -- 5
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 58
+empty$ -- 106
+format.name$ -- 14
+if$ -- 237
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 9
+newline$ -- 27
+num.names$ -- 10
+pop$ -- 41
+preamble$ -- 1
+purify$ -- 17
+quote$ -- 0
+skip$ -- 32
+stack$ -- 0
+substring$ -- 25
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 12
+warning$ -- 2
+while$ -- 10
+width$ -- 6
+write$ -- 49
+(There were 2 warnings)

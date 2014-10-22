@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{Java}
+Rijndael algorithm.
+\newblock {\em \url{http://people.eku.edu/styere/Encrypt/JS-AES.html}}.
+
+\bibitem{Hart}
+B.~Hartley and T.O. Hawkes.
+\newblock {\em Rings, Modules and Linear Algebra}.
+\newblock Chapman and Hall, 1970.
+
+\bibitem{Hilton}
+P.J. Hilton and Yel-Chiang Wu.
+\newblock {\em Curso de Álgebra Moderna}.
+\newblock Reverté, 1977.
+
+\bibitem{HUnger}
+T.W. Hungerford.
+\newblock {\em Algebra}.
+\newblock Springer-Verlag, 1974.
+
+\bibitem{Federal}
+Federal Information.
+\newblock Advanced encryptation standard.
+\newblock {\em Processing Standards Publication 197}, 2001.
+
+\end{thebibliography}
